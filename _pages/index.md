@@ -7,11 +7,11 @@ permalink: /
 
 # Welcome! 🌱
 
-Welcome to the Digital Gardeners shared digital garden!
+Welcome to the Digital Gardeners' shared digital garden!
 
-It's an entry point into the world of digital gardens, maintained by the members of the Digital Gardeners Telegram group.
+It's an entry point into the world of digital gardens, maintained by the members of the [Digital Gardeners Telegram group](https://nesslabs.com/digital-gardeners).
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 1em 1em; background: #f5f7ff; border-radius: 4px;">
 So - what's a [[Digital garden]]?
 </p>
 
