@@ -14,7 +14,7 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:path
+    permalink: /:title
 
 defaults:
   - scope:
