@@ -1,23 +1,11 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+# The Digital Gardeners' Digital Garden
 
-# Digital garden Jekyll template
+This is a public site of the [Digital Gardeners Telegram group](https://nesslabs.com/digital-gardeners)’s shared notes.
 
-Use this template repository to get started with your own digital garden.
+We want to keep a long-lived record of our community’s ideas and links (as opposed to them disappearing into timeline history), and keep an up-to-date map of tools and ideas.
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
+The notes themselves are in the [digitalgardeners/notes](https://github.com/digitalgardeners/notes) repository, and are included in this repository through the use of a Git submodule.
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
+These notes are not comprehensive, and are intended to be an introduction and a starting point - for more discussion and detail, on each note we keep a ‘Twin Pages’ section that links out to other digital gardens with more thoughts from individual gardeners.
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
-
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
-
-## License
-
-Source code is available under the [MIT license](LICENSE.md).
+This repository is based on [Maxime Vaillancourt’s Jekyll template for digital gardens](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
